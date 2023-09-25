@@ -1,0 +1,11 @@
+{
+  "name": "@urth/v-air_sdk",
+  "version": "0.0.3",
+  "type": "module",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {},
+  "scripts": {}
+}
